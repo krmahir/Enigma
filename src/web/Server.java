@@ -1,8 +1,3 @@
-package web;
-
-public class Server {
-    
-}
 package Web;
 import com.sun.net.httpserver.*;
 import Machine.Enigma;
